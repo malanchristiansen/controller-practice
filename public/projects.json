@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "rails project", "github_status": false },
+  { "id": 2, "name": "terminal app", "github_status": true },
+  { "id": 3, "name": "react app", "github_status": false },
+  { "id": 4, "name": "portfolio app", "github_status": true },
+  { "id": 5, "name": "full stack app", "github_status": false }
+]
